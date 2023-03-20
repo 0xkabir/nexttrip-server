@@ -1,0 +1,85 @@
+[
+    {
+        "id": 16,
+        "location": "Namibia",
+        "placeName": "Sossusvlei, Namibia",
+        "category": [
+          "sossusvlei", "namibia", "desert"
+        ],
+        "title": "Desert Paradise for the desert Lover",
+        "pricePerPerson": 170,
+        "packages": {
+          "single": {
+            "price": 170
+          },
+          "couple": {
+            "price": 350
+          },
+          "family": {
+            "price": 800
+          }
+        },
+        "packageDetails": "1 Nights Dinner I night Berbique, 3 days Lunch & breakfast with tredational & popular thai dishes. And some complementary surprse from us.",
+        "lastJoiningDate": "04-05-2023",
+        "rating": 4.5,
+        "interestedPeople": 0,
+        "joinedMembers": 0,
+        "EventDuration": "3 Days & 2 Nights",
+        "StartDate": "12-05-2023",
+        "EndDate": "15-05-2023",
+        "CoverImage": "https://guardian.ng/wp-content/uploads/2018/04/Photo_-Art-of-Safari.jpg",
+        "images": [
+          "https://guardian.ng/wp-content/uploads/2018/04/Photo_-Art-of-Safari.jpg",
+          "https://thumbs.dreamstime.com/z/dunes-namib-desert-sossusvlei-namibia-africa-dead-vlei-naukluft-national-park-195357221.jpg",
+          "https://www.worldatlas.com/r/w1200/upload/7c/69/80/shutterstock-421198501.jpg",
+          "https://media.cntraveler.com/photos/5dc570fe7208760009792642/master/pass/&Beyond-Sosussvlei_2019_guest_area_109.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/2/22/Sossusvlei.jpg",
+          "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/29/b8/28/andbeyond-sossusvlei.jpg?w=700&h=-1&s=1",
+          "https://i.ytimg.com/vi/IMkSP1JfjhY/maxresdefault.jpg"
+        ],
+        "description": "Sossusvlei is undeniably one of the best vacation spots in Nambia. It is a clay and salt pan located within the Namib-Naukluft National Park. It is characterized by red dunes that roll, rising and falling, across a wide expanse of land. They form as a result of the rare rain that reaches the usually dry desert land.Some flora and fauna linger around this area, having adapted to the rough conditions, but it’s when moisture seeps its way into the environment that it truly flourishes. A lake forms in Sossusvlei, coaxing thousands of birds to the location in an impressive spectacle."
+      },
+      {
+        "id": 17,
+        "location": "Angkor Wat",
+        "placeName": "Angkor Wat, Cambodia",
+        "category": [
+          "angkorwat", "cambodia", "mistry", "historical", "historicalplace"
+        ],
+        "title": "A Paradise for the Historical Placae Lovers",
+        "pricePerPerson": 170,
+        "packages": {
+          "single": {
+            "price": 170
+          },
+          "couple": {
+            "price": 350
+          },
+          "family": {
+            "price": 800
+          }
+        },
+        "packageDetails": "1 Nights Dinner I night Berbique, 3 days Lunch & breakfast with tredational & popular thai dishes. And some complementary surprse from us.",
+        "lastJoiningDate": "04-05-2023",
+        "rating": 4.5,
+        "interestedPeople": 0,
+        "joinedMembers": 0,
+        "EventDuration": "3 Days & 2 Nights",
+        "StartDate": "12-05-2023",
+        "EndDate": "15-05-2023",
+        "CoverImage": "https://www.deutschland.de/sites/default/files/media/image/AdobeStock_99698574.jpg",
+        "images": [
+          "https://www.deutschland.de/sites/default/files/media/image/AdobeStock_99698574.jpg",
+          "https://cdn.britannica.com/56/122156-050-F5B469C8/overview-complex-Angkor-Wat-Cambodia.jpg",
+          "https://www.muchbetteradventures.com/magazine/content/images/2022/08/Angkor-Wat-Cambodia-entrance-1.jpg",
+          "https://imageio.forbes.com/specials-images/imageserve/6201c66e1fe0850bfc37fa84/Forgotten-temple/960x0.jpg?format=jpg&width=960",
+          "https://cdn1.i-scmp.com/sites/default/files/images/methode/2016/08/11/0dd04594-5d2b-11e6-82a1-e6803dbb30ea_image_hires.jpg",
+          "https://holidayandtrips.com/wp-content/uploads/2019/07/Angkor-Wat-Cambodias-most-famous-temple-1.jpg",
+          "https://cdn.britannica.com/35/171035-050-8423095A/Angkor-Wat-Siemreab-Cambodia.jpg",
+          "https://www.reviewofreligions.org/wp-content/uploads/2020/07/Angkor-wat-siem-reap-cambodia-bhuddist-hindu-shutterstock_620568230-scaled.jpg",
+          "https://lp-cms-production.imgix.net/2021-11/GettyImages-1304987250.jpg?auto=format&q=75&w=1920",
+          "https://upload.wikimedia.org/wikipedia/commons/4/44/Ankor_Wat_temple.jpg"
+        ],
+        "description": "If you love history and archaeology, Angkor Wat is one of the best places to travel in the world.Across 400 square kilometers, this temple of the Hindu faith was built in the 12th century under the Khmer Empire and took a whopping 35 years to complete.Today, Angkor Wat is a UNESCO World Heritage Site, and it doesn’t just host the staggering ancient wonders of the temple, but also other attractions for tourists, and plenty of jungle-trekking to get there. Make sure you’re all geared up early and you just may catch the sunrise!"
+      }
+]
