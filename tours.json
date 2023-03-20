@@ -80,6 +80,45 @@
         ],
         "description": "The Maldives is an archipelagic state situated in the Indian Ocean known for its luxurious water villas. A tropical haven of white sand beaches, the Maldives is located in the south of Sri Lanka and is ideal for an adventure, honeymoon, or leisure holiday.The Maldives is an archipelago of 1,192 coral islands grouped into natural atolls. However, only 200 islands are inhabited. Each resort generally occupies an entire atoll.Imagine having a room on a pier jutting out from the shore with a glass floor under which manta rays and reef sharks can be seen swimming, and step out from your overwater bungalow to the view of turquoise water.Comprising of 26 atolls (ring-shaped coral reef that encircles a lagoon), the Maldives is renowned for its incredible diving opportunities, Maldives' azure waters are home to diverse marine life and corals of distinct hues.The capital city of Male is both commercial and financial capital. Seat to the executive, legislature, and judiciary, this city has the most well-connected international airport. The history lovers will be satiated here, given Male houses several buildings and monuments of historical importance. Male is accessible by ferry boats from the international airport. Travel to other islands in the Maldives is also quite feasible from Male due to the excellent ferry and seaplanes connectivity, though it is quite expensive."
       },
+      {
+        "id": 3,
+        "location": "Thailand",
+        "placeName": "Phi Phi Islands, Thailand",
+        "category": [
+          "thailand", "phiphi", "island"
+        ],
+        "title": "Island Paradise for the Beach Lover",
+        "pricePerPerson": 170,
+        "packages": {
+          "single": {
+            "price": 170
+          },
+          "couple": {
+            "price": 350
+          },
+          "family": {
+            "price": 800
+          }
+        },
+        "packageDetails": "1 Nights Dinner I night Berbique, 3 days Lunch & breakfast with tredational & popular thai dishes. And some complementary surprise from us.",
+        "lastJoiningDate": "04-05-2023",
+        "rating": 4.5,
+        "interestedPeople": 0,
+        "joinedMembers": 0,
+        "EventDuration": "3 Days & 2 Nights",
+        "StartDate": "12-05-2023",
+        "EndDate": "15-05-2023",
+        "CoverImage": "https://www.holidify.com/images/bgImages/PHI-PHI-ISLANDS.jpg",
+        "images": [
+          "https://www.holidify.com/images/bgImages/PHI-PHI-ISLANDS.jpg",
+          "https://www.holidify.com/images/foreign/compressed/overview_1651.jpg",
+          "https://www.holidify.com/images/foreign/compressed/overview_1650.jpg",
+          "https://www.holidify.com/images/compressed/dest_wiki_12823.jpg",
+          "https://www.elitehavens.com/magazine/wp-content/uploads/2020/07/phiphi-island-edit.jpg",
+          "https://www.holidify.com/images/compressed/dest_wiki_12831.jpg"
+        ],
+        "description": "Phi Phi consists of a group of six islands. Only 40 km away from Phuket, Phi Phi Don and Phi Phi Leh are the two most famous islands of the six. With their pristine waters and vibrant parties, these islands are a wonderful way to spend a few days in Thailand. With four other islands besides the large ones, Phi Phi houses Bida Nok, Bida Nai, Ko Mai Phai, is also known as Bamboo Island. Phi Phi Islands became famous after the 2000 Hollywood flick 'The Beach' that was shot in Ko Phi Phi Le. Ko Phi Phi Leh houses The Viking Cave which is a thriving industry that sells edible birds nests.It's striking cliffs, white sand beaches with jungles all around and clear blue waters make it look nothing short of paradise. None of the islands has roads, and most of the islands are humanly inhabited, making Phi Phi Islands one of the few untainted beautiful landscapes left in the world. These easily accessible islands can be reached from both Phuket and Krabi, by a speedboat in just 45 minutes or by a ferry in 90 minutes."
+      },
     {
         "id": 16,
         "location": "Namibia",
