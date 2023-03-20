@@ -422,6 +422,49 @@
     "https://www.wanderlustchloe.com/wp-content/uploads/2016/10/Raja-Ampat-24.jpg"
     ],
     "description": "The Raja Ampat Islands aren’t just a few specific places – they span 1,500 different small islands that take up 29,000 square miles of ocean, and each one is biodiverse and highly unique.If you’re up for resplendent nature to feast your eyes on, these islands will be among the best vacations you’ll ever take.Much of the land’s aesthetic is almost prehistoric, with palm trees growing out of cliffs, lava peaks surrounded and enrobed by delightful jungles, and misty canyons all ready to be explored."
-    }
+    },
+    
+    {
+        "id": 15,
+        "location": "Geirganger, Norway",
+        "placeName": "Geiranger Fjord, Norway",
+        "category": [
+          "nature",
+          "valley",
+          "waterfall"
+        ],
+        "title": "Island Paradise for the Beach Lover",
+        "pricePerPerson": 170,
+        "packages": {
+          "single": {
+            "price": 170
+          },
+          "couple": {
+            "price": 350
+          },
+          "family": {
+            "price": 800
+          }
+        },
+        "packageDetails": "1 Nights Dinner I night Berbique, 3 days Lunch & breakfast with tredational & popular thai dishes. And some complementary surprse from us.",
+        "lastJoiningDate": "04-05-2023",
+        "rating": 4.5,
+        "interestedPeople": 0,
+        "joinedMembers": 0,
+        "EventDuration": "3 Days & 2 Nights",
+        "StartDate": "12-05-2023",
+        "EndDate": "15-05-2023",
+        "CoverImage": "https://res.cloudinary.com/simpleview/image/upload/v1674650667/clients/norway/New_Project_11__28f603e7-fce9-4bb3-96ec-8500d66f86f1.jpg",
+        "images": [
+          "https://res.cloudinary.com/simpleview/image/upload/v1674650667/clients/norway/New_Project_11__28f603e7-fce9-4bb3-96ec-8500d66f86f1.jpg",
+          "https://res.cloudinary.com/simpleview/image/upload/v1450117455/clients/norway/unesco-geirangerfjord-skagefla-waterfall-2-1_6cc6a64a-a204-432e-8753-01ef2080f24e.jpg",
+          "https://www.muchbetteradventures.com/magazine/content/images/2019/11/18105639/damir-spanic-7E54O7Fvbhw-unsplash.jpg",
+          "https://norwaytravelguide.imgix.net/194484/x/0/geirangerfjordennbsp-the-iconic-norwegian-fjord-2?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883&s=c331fcb4a15bd6324652eee1d3b42776",
+          "https://www.muchbetteradventures.com/magazine/content/images/2019/11/18110157/iStock-1135631755.jpg",
+          "https://cdn.fjordtours.com/imagecache/b/4/d/9/c/3/b4d9c3085c204ba55bcad5d3713c72be129e59c9.jpg",
+          "https://i.pinimg.com/originals/0d/fd/d8/0dfdd8b73f3e22a5dad50f757e2defee.jpg"
+        ],
+        "description": "We already know that Norway is easily in the top best places to visit in the world if you want to see grand, dazzling fjords of all kinds.But of all those hundreds of fjords to visit, Geiranger Fjord is probably the most incredible. It spans 15 kilometers in length and its coasts are completely inhabitable. The fjord can be visited by ferry, through kayaking, or by passing through Trollstigen road. Each option will reward you with a fantastic view of waterfalls and verticals mountains on all sides, leading up to steep cliffs that beg to be climbed on and Ziplined off of."
+      }
     
     ]
