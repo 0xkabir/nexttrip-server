@@ -199,6 +199,47 @@
         ],
         "description": "Bali, Indonesia’s most famous island, is located to the west of Java in the Lesser Sunda Islands. It is world-renowned for its scenic rice terraces, fragrant cuisine,stunning beaches and a galore of culture and tradition. With its elaborate temples, endless coastline, some of the world's best coral reefs, waterfalls and retreats, Bali combines leisure and adventure impeccably. A dizzying combination of spiritual awakening and hard-partying all into one,  Bali is where people from all over the world come to lose themselves in.The island boasts some of the best sunsets and sunrises, enough to captivate and entice you into never leaving this place. Home to the coral reefs of Tulamben, the mountain peaks of Kintamani, the beaches and scenic routes of Seminyak and Kuta, with ancient temples and traditional village life of Ubud, Bali's charm is boundless, as are its opportunities for fun. Don’t forget to stop by one of the many terraced rice fields, a feature that only adds to the diversity of Bali’s beautiful landscape. Tourists may enjoy an idyllic day at the beach, surf, dive, take a casual boat ride to gaze at the dolphins, explore the many beautiful temples, the local markets and the waterfalls, or go to the silent yoga retreats - there is something for everybody here. Bali has been the subject of so many travel journals and has been famously alluded to in many works of literature, as a place of true beauty, and yet words always fail to capture the captivating magic of 'The Island of the Gods"
         },
+        {
+          "id": 7,
+          "location": "Machu Pichu",
+          "placeName": "Machu Pichu, Peru ",
+          "category": [
+            "historicalplace",
+            "machupichu",
+            "historicalplace"
+          ],
+          "title": "Experience The Natural Beauty & Culture Of Peru",
+          "pricePerPerson": 210,
+          "packages": {
+            "single": {
+              "price": 210
+            },
+            "couple": {
+              "price": 400
+            },
+            "family": {
+              "price": 800
+            }
+          },
+          "packageDetails": "1 Nights Dinner & 1 night Berbique, 3 days Lunch & breakfast with tredational & popular dishes. And some complementary surprise from us.",
+          "lastJoiningDate": "20-05-2023",
+          "rating": 4.5,
+          "interestedPeople": 0,
+          "joinedMembers": 0,
+          "EventDuration": "3 Days & 2 Nights",
+          "StartDate": "26-05-2023",
+          "EndDate": "29-05-2023",
+          "CoverImage": "https://cms.valenciatravelcusco.com/media/images/package/sacred-valley-and-machu-picchu-by-train_Z4e2XgX.jpg",
+          "images": [
+            "https://cms.valenciatravelcusco.com/media/images/package/sacred-valley-and-machu-picchu-by-train_Z4e2XgX.jpg",
+            "https://gotoperu-mx.s3-us-west-1.amazonaws.com/itinerary/1574437277091machupicchu_1574437275.jpg",
+            "https://gotoperu-mx.s3-us-west-1.amazonaws.com/itinerary/1574437250112despedida_1574437248.jpg",
+            "https://s3.us-west-1.amazonaws.com/gotoperu.co/itinerary/1637944349427b4_1637944362.jpg",
+            "https://static.mywebsites360.com/a836523dae4e4073847e04188fd0a8c4/i/fea7f62d68af48b89ba1665d72beb163/1/GCuCv726gZycFxatR9d99n/Gallery%20Image%201.jpg",
+            "https://gotoperu-mx.s3-us-west-1.amazonaws.com/itinerary/1574437260377valle-sagrado_1574437258.jpg"
+          ],
+          "description": "More than 7,000 feet above sea level in the Andes Mountains, Machu Picchu is the most visited tourist destination in Peru. A symbol of the Incan Empire and built around 1450AD, Machu Picchu was designated a UNESCO World Heritage Site in 1983 and was named one of the New Seven Wonders of the World in 2007One of the most popular reasons to visit Machu Picchu is its popular hiking trail. The Inca Trail is almost as well known as the wonder of the world. This hiking route is chosen by hundreds of tourists every year, so much so that it is necessary to book months in advance.The monument of Inca architecture receives approximately a million of tourists a year. Machu Picchu, currently one of the 7 wonders of the world, is an impressive Inca fortress with temples, platforms and water channels, located at the top of a mountain of the Valley of Urubamba River, 2 360 m.a.s.l."
+        },
     {
         "id": 16,
         "location": "Namibia",
