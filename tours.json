@@ -199,6 +199,48 @@
         ],
         "description": "Bali, Indonesia’s most famous island, is located to the west of Java in the Lesser Sunda Islands. It is world-renowned for its scenic rice terraces, fragrant cuisine,stunning beaches and a galore of culture and tradition. With its elaborate temples, endless coastline, some of the world's best coral reefs, waterfalls and retreats, Bali combines leisure and adventure impeccably. A dizzying combination of spiritual awakening and hard-partying all into one,  Bali is where people from all over the world come to lose themselves in.The island boasts some of the best sunsets and sunrises, enough to captivate and entice you into never leaving this place. Home to the coral reefs of Tulamben, the mountain peaks of Kintamani, the beaches and scenic routes of Seminyak and Kuta, with ancient temples and traditional village life of Ubud, Bali's charm is boundless, as are its opportunities for fun. Don’t forget to stop by one of the many terraced rice fields, a feature that only adds to the diversity of Bali’s beautiful landscape. Tourists may enjoy an idyllic day at the beach, surf, dive, take a casual boat ride to gaze at the dolphins, explore the many beautiful temples, the local markets and the waterfalls, or go to the silent yoga retreats - there is something for everybody here. Bali has been the subject of so many travel journals and has been famously alluded to in many works of literature, as a place of true beauty, and yet words always fail to capture the captivating magic of 'The Island of the Gods"
         },
+        {
+          "id": 6,
+          "location": "Himachal Pradesh, India",
+          "placeName": "Shimla, Himachal Pradesh",
+          "category": [
+            "india", "hillstation", "snowfall", "shimla", "nature"
+          ],
+          "title": "One of the most stunning hill resorts",
+          "pricePerPerson": 300,
+          "packages": {
+            "single": {
+              "price": 300
+            },
+            "couple": {
+              "price": 550
+            },
+            "family": {
+              "price": 1000
+            }
+          },
+          "packageDetails": "3 Nights Dinner I night Berbique, 5 days Lunch & breakfast with tredational & popular traditional indian dishes. And some complementary surprise from us.",
+          "lastJoiningDate": "10-05-2023",
+          "rating": 4.8,
+          "interestedPeople": 0,
+          "joinedMembers": 0,
+          "EventDuration": "5 Days & 4 Nights",
+          "StartDate": "18-05-2023",
+          "EndDate": "23-05-2023",
+          "CoverImage": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_633164246_20190904103856_20190904103926.jpg",
+          "images": [
+            "https://www.holidify.com/images/cmsuploads/compressed/28022192021_b8e82eb874_b_20190320141704.jpg",
+            "https://www.holidify.com/images/cmsuploads/compressed/Institute_for_Advanced_Study_Rashtrapati_Niwas_Shimla_Himachal_Pradesh_India_20190207143049jpg",
+            "https://www.holidify.com/images/compressed/attractions/attr_351.jpg?v=1.1",
+            "https://www.holidify.com/images/cmsuploads/compressed/Talakona_waterfall_view_01_20190930132844.jpg",
+            "https://www.holidify.com/images/cmsuploads/compressed/26011835443_49bc5a93f5_b_20190219152528jpg",
+            "https://www.holidify.com/images/cmsuploads/compressed/15641420594_6108051161_b_20180430185816.jpg",
+            "https://www.holidify.com/images/bgImages/MANALI.jpg",
+            "https://www.holidify.com/images/cmsuploads/compressed/Timber_trail_20170407195811.jpg",
+            "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_633164246_20190904103856_20190904103926.jpg"
+          ],
+          "description": "Shimla, the capital of the northern state of Himachal Pradesh, which borders Punjab, is India’s largest and best known hill station. It spans a 12km ridge in the foothills of the Himalayas, with steep, forested slopes falling away below and mountain views above. Thanks to its elevation, at over 2,000m, Shimla has always welcomed visitors escaping the soaring temperatures of the plains below, and today grateful Indian tourists make their way here to enjoy the cool, fresh air.Before holidaymakers, though, it was the British who beat a retreat from the heat to Shimla – the town was the Raj summer capital. Architectural relics from this period pepper it still, including a handful of Tudorbethan buildings. Most notable is the Viceregal Lodge on Observatory Hill where the partition agreement was drawn up, and the neo-Gothic Christ Church. Built in 1857, it stands out prominently on the ridge and looks like it would be equally at home in the Cotswolds.Shimla’s a lovely place to stroll around, especially since traffic is banned in the centre of town. Expect some uphill stretches, though – you’re in the Himalayas, after all. The main road is the Mall, which runs east-west for 4km just below the crest of the ridge. Strike off the Mall, heading south, and you’ll find a warren of alleys and stairways in the bazaar – a great place for shopping – which clings to the hillsides stretching down to busy Cart Road. The State Museum, housed in a colonial mansion, is also worth a visit, and has a good collection of contemporary and ancient art. If you fancy exploring beyond the town, you can head out into the surrounding foothills on walks that range from gentle to challenging."
+        },
     {
         "id": 16,
         "location": "Namibia",
