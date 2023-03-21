@@ -281,5 +281,44 @@
           "https://upload.wikimedia.org/wikipedia/commons/4/44/Ankor_Wat_temple.jpg"
         ],
         "description": "If you love history and archaeology, Angkor Wat is one of the best places to travel in the world.Across 400 square kilometers, this temple of the Hindu faith was built in the 12th century under the Khmer Empire and took a whopping 35 years to complete.Today, Angkor Wat is a UNESCO World Heritage Site, and it doesn’t just host the staggering ancient wonders of the temple, but also other attractions for tourists, and plenty of jungle-trekking to get there. Make sure you’re all geared up early and you just may catch the sunrise!"
+      },
+      {
+        "id": 19,
+        "location": "Antelope Canyon",
+        "placeName": "Antelope Canyon, USA",
+        "category": [
+          "usa", "canyon", "water", "nature"
+        ],
+        "title": "Canyon Paradise for the Canyon Lovers",
+        "pricePerPerson": 170,
+        "packages": {
+          "single": {
+            "price": 170
+          },
+          "couple": {
+            "price": 350
+          },
+          "family": {
+            "price": 800
+          }
+        },
+        "packageDetails": "1 Nights Dinner I night Berbique, 3 days Lunch & breakfast with tredational & popular thai dishes. And some complementary surprse from us.",
+        "lastJoiningDate": "04-05-2023",
+        "rating": 4.5,
+        "interestedPeople": 0,
+        "joinedMembers": 0,
+        "EventDuration": "3 Days & 2 Nights",
+        "StartDate": "12-05-2023",
+        "EndDate": "15-05-2023",
+        "CoverImage": "https://travelmelodies.com/wp-content/uploads/2020/01/travel-melodies-antelope-canyon-arizona-usa.jpg",
+        "images": [
+          "https://travelmelodies.com/wp-content/uploads/2020/01/travel-melodies-antelope-canyon-arizona-usa.jpg",
+          "https://usareisetipps.com/wp-content/uploads/antelope-canyon-tour-gruppe.jpg",
+          "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/abstract-pattern-formation-of-sand-falling-in-a-cave-in-the-upper-antelope-canyon-ami-parikh.jpg",
+          "https://landscapephotographymagazine.com/wp-content/uploads/2019/07/Antelope-Canyon-Arizona-USA-by-Craig-Bill.jpg",
+          "https://i.ytimg.com/vi/Dz_m2TUizZ8/maxresdefault.jpg",
+          "https://usareisetipps.com/wp-content/uploads/antelope-canyon-einstieg.jpg"
+        ],
+        "description": "This geological phenomenon is located on Navajo territory and it is a slot canyon that boasts the privilege of being the most photographed of its kind universally.The upper canyon area is more popular and offers a fantastic view of the curving, wavy walls of sandstone, while the lower canyon area boasts a more up-close-and-personal interaction with the magnolias colors it boasts.Antelope Canyon is easily one of the most beautiful places in the US thanks to the amazing appearance it offers.It’s amazing to think that all these fascinating shades of sandstone, in orange, yellow, pink, and red, occurred naturally!"
       }
 ]
