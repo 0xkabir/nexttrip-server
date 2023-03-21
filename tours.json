@@ -320,5 +320,44 @@
           "https://usareisetipps.com/wp-content/uploads/antelope-canyon-einstieg.jpg"
         ],
         "description": "This geological phenomenon is located on Navajo territory and it is a slot canyon that boasts the privilege of being the most photographed of its kind universally.The upper canyon area is more popular and offers a fantastic view of the curving, wavy walls of sandstone, while the lower canyon area boasts a more up-close-and-personal interaction with the magnolias colors it boasts.Antelope Canyon is easily one of the most beautiful places in the US thanks to the amazing appearance it offers.It’s amazing to think that all these fascinating shades of sandstone, in orange, yellow, pink, and red, occurred naturally!"
+      },
+      {
+        "id": 20,
+        "location": "Pyramids",
+        "placeName": "Pyramids of Giza, Egypt",
+        "category": [
+          "pyramid", "desert", "historicalplace"
+        ],
+        "title": "A Paradise for the Pyramids & History Lovers",
+        "pricePerPerson": 170,
+        "packages": {
+          "single": {
+            "price": 170
+          },
+          "couple": {
+            "price": 350
+          },
+          "family": {
+            "price": 800
+          }
+        },
+        "packageDetails": "1 Nights Dinner I night Berbique, 3 days Lunch & breakfast with tredational & popular thai dishes. And some complementary surprse from us.",
+        "lastJoiningDate": "04-05-2023",
+        "rating": 4.5,
+        "interestedPeople": 0,
+        "joinedMembers": 0,
+        "EventDuration": "3 Days & 2 Nights",
+        "StartDate": "12-05-2023",
+        "EndDate": "15-05-2023",
+        "CoverImage": "https://lp-cms-production.imgix.net/2020-11/GettyRF_1085205362.jpg?auto=format&q=75&w=3840",
+        "images": [
+          "https://lp-cms-production.imgix.net/2020-11/GettyRF_1085205362.jpg?auto=format&q=75&w=3840",
+          "https://s27363.pcdn.co/wp-content/uploads/2020/05/Pyramids-of-Giza-Guide-1200x900.jpg.optimal.jpg",
+          "https://s27363.pcdn.co/wp-content/uploads/2020/04/Camel-Ride.jpg.optimal.jpg",
+          "https://thirdeyetraveller.com/wp-content/uploads/GIZA-1-of-1-6.jpg",
+          "https://cdn-imgix.headout.com/tour/26524/TOUR-IMAGE/ffbfd232-0846-455a-855c-2bda58393268-13944-cairo-skip-the-line-tickets---pyramids-of-giza-06.jpg",
+          "https://i.natgeofe.com/n/c39ee1b2-9061-4e28-bad6-0ba27094c8fa/1-pyramids-giza-NationalGeographic_911975_16x9.jpg?w=1200"
+        ],
+        "description": "Most people would consider the world-famous Pyramids of Giza to be among the best vacation spots that the world has to offer.Among them are the gigantic Pyramid of Cheops, the intriguing Pyramid of Chephren, and, of course, the towering Sphinx that gazes over the land with watchful eyes. Experience the wonders of ancient Egypt within these pyramids, where you will see sarcophagi, passages, statues, and structures all worthy of exploration. It’s no wonder that these iconic structures are so renowned!"
       }
 ]
