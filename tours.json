@@ -120,6 +120,45 @@
         "description": "Phi Phi consists of a group of six islands. Only 40 km away from Phuket, Phi Phi Don and Phi Phi Leh are the two most famous islands of the six. With their pristine waters and vibrant parties, these islands are a wonderful way to spend a few days in Thailand. With four other islands besides the large ones, Phi Phi houses Bida Nok, Bida Nai, Ko Mai Phai, is also known as Bamboo Island. Phi Phi Islands became famous after the 2000 Hollywood flick 'The Beach' that was shot in Ko Phi Phi Le. Ko Phi Phi Leh houses The Viking Cave which is a thriving industry that sells edible birds nests.It's striking cliffs, white sand beaches with jungles all around and clear blue waters make it look nothing short of paradise. None of the islands has roads, and most of the islands are humanly inhabited, making Phi Phi Islands one of the few untainted beautiful landscapes left in the world. These easily accessible islands can be reached from both Phuket and Krabi, by a speedboat in just 45 minutes or by a ferry in 90 minutes."
       },
       {
+        "id": 4,
+      "location": "Thailand",
+      "placeName": "Koh Yao Nai, Thailand",
+      "category": [
+        "thailand", "kohyaonai", "island"
+      ],
+      "title": "A Sight Off the Beaten Track",
+      "pricePerPerson": 190,
+      "packages": {
+        "single": {
+          "price": 190
+        },
+        "couple": {
+          "price": 360
+        },
+        "family": {
+          "price": 700
+        }
+      },
+      "packageDetails": "1 Nights Dinner & 1 night Berbique, 3 days Lunch & breakfast with tredational & popular thai dishes. And some complementary surprise from us.",
+      "lastJoiningDate": "08-05-2023",
+      "rating": 4.5,
+      "interestedPeople": 0,
+      "joinedMembers": 0,
+      "EventDuration": "3 Days & 2 Nights",
+      "StartDate": "14-05-2023",
+      "EndDate": "17-05-2023",
+      "CoverImage": "https://www.holidify.com/images/bgImages/KOH-YAO-NOI.jpg",
+      "images": [
+        "https://www.holidify.com/images/bgImages/KOH-YAO-NOI.jpg",
+        "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_497247046_20190923152543.png",
+        "https://www.holidify.com/images/cmsuploads/compressed/KoYaoYai_20190920163213.jpg",
+        "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_592859528_20190923155505.jpg",
+        "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_464316578_20190923161255.jpg",
+        "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_512929531_20190923152913.jpg"
+      ],
+      "description": "The tranquil island of Koh Yao Noi is the sister island of Koh Yao Yai located in the middle of Phang Nga Bay, west of Phuket. It is an ideal getaway for the traveller who seeks solitude under sun and sand. Far from maddening crowds, Koh Yao Noi is your place to relax and rejuvenate without any fuss or frills. It is a destination mostly popular among the locals and can be called Thailand’s best kept secret. It can be reached from Phuket by a small boat ride of 30 minutes. Koh Yao Noi in the language stands for ‘The Small Long Island’ and it stays true to its promise. The island’s beaches offer gorgeous views of Phang Nga Bay while its interiors stay lush, peaceful, and pristine. However, the waters of the sea are not quite safe to swim in owing to the rocky and jagged ocean floor. Due to its remoteness, the facilities on the island are quite limited and ATMs or banking services are conspicuously absent so make sure you are adequately prepared."
+    },
+      {
         "id": 5,
         "location": "Indonesia",
         "placeName": "Bali, Indonesia",
@@ -159,7 +198,7 @@
           "https://www.holidify.com/images/bgImages/BALI.jpg"
         ],
         "description": "Bali, Indonesia’s most famous island, is located to the west of Java in the Lesser Sunda Islands. It is world-renowned for its scenic rice terraces, fragrant cuisine,stunning beaches and a galore of culture and tradition. With its elaborate temples, endless coastline, some of the world's best coral reefs, waterfalls and retreats, Bali combines leisure and adventure impeccably. A dizzying combination of spiritual awakening and hard-partying all into one,  Bali is where people from all over the world come to lose themselves in.The island boasts some of the best sunsets and sunrises, enough to captivate and entice you into never leaving this place. Home to the coral reefs of Tulamben, the mountain peaks of Kintamani, the beaches and scenic routes of Seminyak and Kuta, with ancient temples and traditional village life of Ubud, Bali's charm is boundless, as are its opportunities for fun. Don’t forget to stop by one of the many terraced rice fields, a feature that only adds to the diversity of Bali’s beautiful landscape. Tourists may enjoy an idyllic day at the beach, surf, dive, take a casual boat ride to gaze at the dolphins, explore the many beautiful temples, the local markets and the waterfalls, or go to the silent yoga retreats - there is something for everybody here. Bali has been the subject of so many travel journals and has been famously alluded to in many works of literature, as a place of true beauty, and yet words always fail to capture the captivating magic of 'The Island of the Gods"
-      },
+        },
     {
         "id": 16,
         "location": "Namibia",
