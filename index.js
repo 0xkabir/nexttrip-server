@@ -20,6 +20,12 @@ async function run() {
     try {
         const database = client.db('bookTheTour')
         const toursCollection = database.collection('tours')
+
+        app.get('/tours', async(request, response) => {
+            const query = {}
+            tours = await toursCollection.find(query).toArray()
+            response.send(tours)
+        })
     }
 
     finally{
