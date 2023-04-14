@@ -24,6 +24,7 @@ async function run() {
             const query = {}
             tours = await toursCollection.find(query).toArray()
             response.send(tours);
+            response.send(tours)
         })
     }
 
